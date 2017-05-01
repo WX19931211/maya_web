@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* input */
+.input1 { width:230px; height:55px; padding:0 41px 0 111px; background:url(../img/ip_bg.png) left top no-repeat; margin-bottom:35px; font-weight:bold; color:#03918d; font-size:20px;}
+.input2 { width:378px; height:49px; background:url(../img/login.png) no-repeat;}
+.input3 { width:58px; line-height:20px; background:url(../img/ip_bg3.gif); color:#666; float:right; margin-top:9px; text-align:center; border-radius:4px;}
+.input4 { width:107px; height:35px; background:url(../img/ip_bg4.gif) repeat-x; color:#fff; font-weight:bold; margin:30px 0 36px 150px;}
+.input5 { width:83px; height:16px; background:#e9e9ed;}
+/* bg */
+.ip_bg2 { background:url(../img/ip_bg2.png) no-repeat;}
+.td_bg { background:#ebebeb;}
+.ta_bg { background:#e9e9ed;}
+/* color */
+.color1 { color:#f3a08e;}
+.color2 { color:#fff;}
+.color3 { color:#000!important;}
+/* float */
+.fl { float:left;}
+.fr	{ float:right;}
+/* padding */
+.pd_b { padding-bottom:20px;}
+/* margin */
+.mg_r { margin-right:9px;}

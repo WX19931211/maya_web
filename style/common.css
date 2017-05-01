@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+/* padding */
+.pd_t { padding-top:30px;}
+.pd_t1 { padding-top:40px;}
+.pd_t2 { padding-top:9px;}
+.pd_tl { padding:38px 0 0 38px;}
+.pd_t3 { padding-top:23px;}
+.pd_t4 { padding:11px 0 0 12px;}
+.pd_t5 { padding:7px 0 0 6px;}
+.pd_6 { padding:15px 0 0 15px;}
+.pd_r { padding-right:0!important;}
+.pd_map { padding:14px 0 0 14px;}
+.pd_icon { padding:5px 10px 0 0;}
+.pd_the { padding:15px 0 0 25px;}
+.pd_dinggou { padding:19px 0 0 12px;} 
+.pd_l { padding-left:85px;}
+/* float */
+.fl { float:left;}
+.fr { float:right;}
+/* margin */
+.mg_r { margin-right:0!important;}
+.mg_b { margin-bottom:30px;}
+.mg_b1 { margin-bottom:0!important;}
+.mg_b2 { margin-bottom:20px!important;}
+/* color */
+.color1 { color:#7a7976;}
+.color2 { color:#F66!important;}
+/* input */
+.input1 { width:94px; height:20px; background:#fff; margin-right:35px;}
+.input2 { width:82px; height:31px; background:url(../img/input_bg.gif); color:#fff; font-weight:bold; margin:0 31px 0 10px;}
+.input3 { width:54px; margin-right:20px;}
+/* height */
+.height1 { height:293px!important;}
+/* bg */
+.bg_input { background:#F33!important; color:#fff!important;}
+/* font */
+.font_s { font-size:18px!important;}
+
+
+

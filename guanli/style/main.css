@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+body { margin:0; background:url(../img/bg.gif) repeat-y; font-size:12px;}
+* { padding:0; margin:0; border:none; list-style:none;}
+a { text-decoration:none;}
+/* login */
+.box { width:382px; height:398px; position:absolute; left:50%; top:50%; margin:-199px 0 0 -191px;}
+.box .logo { height:179px; text-align:center;}
+.box .form1 { height:219px;}
+/* top */
+.top { height:120px; position:relative;}
+.top h1 { width:224px; height:63px; position:absolute; top:33px; left:103px;}
+.top p { position:absolute; top:51px; right:121px; color:#bedfde; font-family:"微软雅黑"; font-weight:bold;}
+.top #nav { width:541px; height:33px; position:absolute; top:87px; right:103px;}
+.top #nav li { float:left; margin-right:11px;}
+.top #nav li a { padding-left:12px; line-height:33px; display:block; background:url(../img/li_bg.gif) no-repeat left top; color:#666; font-family:"黑体";}
+.top #nav li a span { padding-right:12px; background:url(../img/li_bg2.gif) right top; display:block;}
+.top #nav li a:hover { background:url(../img/li_bg3.gif) no-repeat;}
+.top #nav li a:hover span { background:url(../img/li_bg4.gif) right top;}
+/* right */
+.right { width:100%; position:relative; background:url(../img/right_bg.png); border-radius:7px; padding:30px 0 300px 0; margin:0 auto;}
+
+.right #wrap { width:96%; background:#d6d6dc; margin:0 auto;}
+.right #wrap .tit { line-height:33px; background:url(../img/tit_bg.gif) repeat-x #aaaab8; padding:0 40px 0 22px; overflow:hidden;}
+.right #wrap .tit span { color:#fff; font-weight:bold; float:left;}
+.right #wrap p { padding-left:23px; font-size:14px; line-height:50px; font-weight:bold;}
+.right #wrap .form2 { width:651px; padding-left:32px; height:60px;}
+.right #wrap .form2 dl { width:145px; padding-right:40px; height:16px; margin-bottom:14px; float:left;}
+.right #wrap .form2 dl dt { width:60px; float:left; line-height:16px;}
+.right #wrap .form2 dl dd { width:83px; height:16px; float:left;}
+.right #wrap .table1 { width:100%; border-top:1px solid #bbcccf; border-right:1px solid #bbcccf;}
+.right #wrap .table1 th { border-bottom:1px solid #bbcccf; border-left:1px solid #bbcccf; background:#bedfde; line-height:30px; text-align:center; color:#333;}
+.right #wrap .table1 td { border-bottom:1px solid #bbcccf; border-left:1px solid #bbcccf; line-height:25px; text-align:center; font-size:12px;}
+.right #wrap .table1 td p { line-height:28px; font-size:12px; font-weight:normal;}
+.right #wrap .form1 { width:385px; padding:32px 0 0 74px;}
+.right #wrap .form1 dl { height:20px; margin-bottom:9px;}
+.right #wrap .form1 dl dt { width:78px; line-height:20px; float:left; text-align:right;}
+.right #wrap .form1 dl dt span { color:#F03;}
+.right #wrap .form1 dl dd { width:165px; margin-left:19px; float:left;}
+.right #wrap .form1 dl input { width:165px; height:20px; background:#e9e9ed;}
+.right #wrap .form1 dl select { width:165px; height:20px; background:#e9e9ed; text-align:center;}
+/* left */
+.left { width:202px; background:#575771; padding-bottom:105px; margin:0 auto;}
+.left ul li { width:167px; padding-left:35px; background:url(../img/li_bg5.gif) repeat-x left bottom;}
+.left ul li a { color:#fff; font-family:"黑体"; font-weight:bold; font-size:24px; line-height:76px;}
+.left ul li a:hover { color:#f0a090;}
+.left ul li ul { width:157px; padding-left:10px;}
+.left ul li ul li { width:157px; background:none;}
+.left ul li ul li a { font-size:14px; line-height:24px; color:#CCC;}
+.left ul li ul li a:hover { color:#F60;}
+/* bottom */
+.bottom { width:100%;}
+.bottom p { line-height:60px; color:#fff; text-align:center;}
